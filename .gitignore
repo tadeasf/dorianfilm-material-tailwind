@@ -1,0 +1,7 @@
+node_modules
+.next
+.eslintrc.json
+package-lock.json
+.DS_Store
+.vscode
+```
